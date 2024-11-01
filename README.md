@@ -8,7 +8,7 @@
 
 💞️ I’m looking to collaborate on open-source projects and innovative web applications
 
-📫 How to reach me: LinkedIn or via email at okaarjav@gmail.com
+📫 How to reach me: https://www.linkedin.com/in/aarjav-oravakandi/ or via email at okaarjav@gmail.com
 
 😄 Pronouns: He/Him
 
