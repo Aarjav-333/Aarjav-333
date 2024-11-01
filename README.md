@@ -1,3 +1,7 @@
+Aarjav Oravakandi
+👋 Aspiring software developer from Thiruvananthapuram, Kerala, with a strong foundation in programming languages and web technologies. Passionate about solving complex challenges and creating innovative solutions.
+
+
 👋 Hi, I’m @Aarjav-333
 
 👀 I’m interested in web development, mobile app development, and creating AI models
