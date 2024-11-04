@@ -10,7 +10,5 @@
 
 📫 How to reach me: https://www.linkedin.com/in/aarjav-oravakandi/ or via email at okaarjav@gmail.com
 
-😄 Pronouns: He/Him
-
 ⚡ Fun fact: I enjoy exploring new technology, listening to tech podcasts, watching movies, tackling algorithm challenges, and building personal projects in my free time.
 
