@@ -2,7 +2,7 @@
 
 👋 Hi, I’m @Aarjav-333
 
-👀 I’m interested in web development, mobile app development, and creating AI models
+👀 I’m interested in web development and creating AI models
 
 🌱 I’m currently learning advanced frontend development, backend development, and containerization with Docker
 
