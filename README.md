@@ -3,7 +3,7 @@
 </h1>
 
 <h3 align="center">
-  MCA Student @ CET | AI & Full-Stack Developer | Cloud & Automation Learner
+  MCA Student @ CET | AI/ML Engineer | Cloud & Automation
 </h3>
 
 <p align="center">
@@ -26,7 +26,7 @@
 - BCA graduate from **Christ Nagar College**
 - Interested in **AI, full-stack development, cloud computing, automation, and MLOps**
 - Building with **ReactJS, Node.js, Express.js, REST APIs, SQL, MongoDB, Docker, and AWS**
-- Exploring **machine learning, deep learning, TensorFlow, PyTorch, CI/CD, and Kubernetes**
+- Exploring **machine learning, deep learning, PyTorch, CI/CD, and Kubernetes**
 - Open to **internships, collaborations, and practical software development opportunities**
 
 ---
