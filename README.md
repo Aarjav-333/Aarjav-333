@@ -22,12 +22,12 @@
 
 ## About Me
 
-- MCA student at **College of Engineering Trivandrum (CET)**
-- BCA graduate from **Christ Nagar College**
-- Interested in **AI, full-stack development, cloud computing, automation, and MLOps**
-- Building with **ReactJS, Node.js, Express.js, REST APIs, SQL, MongoDB, Docker, and AWS**
-- Exploring **machine learning, deep learning, PyTorch, CI/CD, and Kubernetes**
-- Open to **internships, collaborations, and practical software development opportunities**
+- I build web apps, automation tools, and software projects that solve practical real-world problems.
+- I enjoy creating projects where clean UI, reliable backend logic, and real-world usefulness come together.
+- Currently improving my skills in **AI integration, cloud deployment, Docker, Kubernetes, CI/CD, and machine learning workflows**.
+- Building scalable full-stack applications using **ReactJS, Django, Node.js, Express.js, REST APIs, MySQL, MongoDB, Docker, and AWS**.
+- Exploring **machine learning, deep learning, PyTorch, CI/CD pipelines, Kubernetes, and cloud-native deployment practices**.
+- Open to **internship opportunities, collaborative projects, and software engineering roles where I can contribute and grow**.
 
 ---
 
