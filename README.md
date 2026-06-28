@@ -1,109 +1,166 @@
-<h1 align="center">Hi, I'm Aarjav Oravakandi</h1>
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&pause=1000&color=F7651F&center=true&vCenter=true&width=850&lines=Hi%2C+I'm+Aarjav+Oravakandi;AI+%26+Full-Stack+Developer;MCA+Student+%40+CET;React+%7C+Node.js+%7C+AWS+%7C+Docker" alt="Typing SVG" />
+</h1>
+
+<h3 align="center">
+  MCA Student @ CET | AI & Full-Stack Developer | Cloud & Automation Learner
+</h3>
 
 <p align="center">
-  MCA student and full-stack developer building practical, scalable apps with React, Node.js, Express.js, databases, cloud, and automation.
+  Building practical full-stack apps, automation tools, cloud-ready systems, and data-driven solutions.
 </p>
 
 <p align="center">
   <a href="https://github.com/Aarjav-333?tab=repositories">Projects</a>
-  ·
+  .
   <a href="https://www.linkedin.com/in/aarjav-oravakandi/">LinkedIn</a>
-  ·
+  .
   <a href="https://leetcode.com/u/okaarjav/">LeetCode</a>
 </p>
 
 ---
 
-### About Me
+## About Me
 
-- MCA student at College of Engineering Trivandrum with a BCA background from Christ Nagar College.
-- Full-stack developer focused on React, Node.js, Express.js, REST APIs, and secure role-based applications.
-- Experienced with relational and NoSQL databases including MySQL, SQL Server, and MongoDB.
-- Learning and building around AWS, Docker, Kubernetes, CI/CD pipelines, machine learning, deep learning, and MLOps.
-- I enjoy solving real problems through personal projects, automation, clean architecture, and maintainable code.
+- MCA student at **College of Engineering Trivandrum (CET)**
+- BCA graduate from **Christ Nagar College**
+- Interested in **AI, full-stack development, cloud computing, automation, and MLOps**
+- Building with **ReactJS, Node.js, Express.js, REST APIs, SQL, MongoDB, Docker, and AWS**
+- Exploring **machine learning, deep learning, TensorFlow, PyTorch, CI/CD, and Kubernetes**
+- Open to **internships, collaborations, and practical software development opportunities**
 
-### Tech I Work With
+---
 
-<p>
-  <img src="https://skillicons.dev/icons?i=java,python,js,ts,react,nodejs,express,html,css,tailwind,bootstrap,mysql,mongodb,aws,docker,kubernetes,git,github,postman,figma,vscode" alt="Tech stack icons" />
-</p>
+## Featured Projects
 
-### Core Skills
+<div align="center">
+
+| Project | Description | Tech Stack |
+| --- | --- | --- |
+| **Loan Bazaar** | Fintech platform for loan management, investments, deposits, role-based access, secure transactions, and real-time financial analytics. | ReactJS, Node.js, Express.js, MongoDB/MySQL, JWT, AWS S3/EC2, Docker |
+| **Restaurant Management System** | Restaurant operations system for tables, orders, menu updates, role-based access, and customer feedback. | ReactJS, Node.js, Express.js, MySQL, REST APIs |
+| **Kerala Result Notifier** | Tracks Kerala University result and announcement updates so students do not need to manually check repeatedly. | React, Supabase, PWA, Automation |
+| **Krishna's Tuition** | Recorded video learning platform with student accounts, video access, announcements, and dashboard features. | React, Supabase, shadcn/ui |
+
+</div>
+
+---
+
+## Tech Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=java,python,js,ts,react,nodejs,express,html,css,tailwind,bootstrap,mysql,mongodb,aws,docker,kubernetes,git,github,postman,figma,vscode" alt="Tech Stack" />
+
+</div>
+
+---
+
+## Core Skills
+
+<div align="center">
 
 | Area | Skills |
 | --- | --- |
-| Frontend | ReactJS, JavaScript, TypeScript, HTML, CSS, Tailwind CSS, Bootstrap |
-| Backend | Node.js, Express.js, RESTful API design, JWT authentication |
-| Databases | MySQL, SQL Server, MongoDB |
-| Cloud & DevOps | AWS services, Docker, Kubernetes, CI/CD pipelines, Git/GitHub |
-| AI & Data | Machine Learning, Deep Learning, TensorFlow, PyTorch, MLOps |
-| Tools | Postman, Figma, MS Excel, VS Code |
+| **Frontend** | ReactJS, JavaScript, TypeScript, HTML, CSS, Tailwind CSS, Bootstrap |
+| **Backend** | Node.js, Express.js, RESTful API Design, JWT Authentication |
+| **Databases** | MySQL, SQL Server, MongoDB |
+| **Cloud & DevOps** | AWS Services, Docker, Kubernetes, CI/CD Pipelines, Git/GitHub |
+| **AI & Data** | Machine Learning, Deep Learning, TensorFlow, PyTorch, MLOps |
+| **Tools** | Postman, Figma, MS Excel, VS Code |
 
-### Featured Projects
-
-| Project | What It Does | Stack |
-| --- | --- | --- |
-| Loan Bazaar | Comprehensive fintech platform for loans, investments, deposits, role-based access, secure transactions, and real-time financial analytics. | ReactJS, Node.js, Express.js, MongoDB/MySQL, JWT, AWS S3/EC2, Docker |
-| Restaurant Management System | Restaurant operations system for table management, orders, menu updates, user access control, and customer feedback. | ReactJS, Node.js, Express.js, MySQL, REST APIs |
-| Kerala Result Notifier | Tracks Kerala University result and announcement updates, then helps students avoid manually checking the site repeatedly. | React, Supabase, PWA, automation |
-| Krishna's Tuition | Recorded video learning platform with admin-created student accounts, video access, announcements, and student dashboard. | React, Supabase, shadcn/ui |
-
-### Highlights
-
-- Designed and deployed an end-to-end full-stack application with cloud integration.
-- Deployed scalable microservices using Docker and Kubernetes.
-- Implemented cloud-based solutions using AWS.
-- Built Python automation pipelines for data processing and workflow optimization.
-- Developed and deployed machine learning pipelines.
-
-### Education
-
-| Program | Institution |
-| --- | --- |
-| Master of Computer Applications | College of Engineering Trivandrum |
-| Bachelor of Computer Applications | Christ Nagar College |
+</div>
 
 ---
 
-### GitHub Metrics
+## Highlights
 
-<p align="center">
-  <img src="./metrics/base.svg" alt="GitHub profile metrics" width="100%" />
-</p>
-
-### Contribution Calendar
-
-<p align="center">
-  <img src="./metrics/isocalendar.svg" alt="Isometric commit calendar" width="100%" />
-</p>
-
-### Languages
-
-<p align="center">
-  <img src="./metrics/languages.svg" alt="Most used programming languages" width="100%" />
-</p>
-
-### Topics
-
-<p align="center">
-  <img src="./metrics/topics.svg" alt="GitHub starred and mastered topics" width="100%" />
-</p>
-
-### LeetCode
-
-<p align="center">
-  <img src="./metrics/leetcode.svg" alt="LeetCode metrics" width="100%" />
-</p>
+- Designed and deployed an end-to-end full-stack application with cloud integration
+- Deployed scalable microservices using Docker and Kubernetes
+- Implemented cloud-based solutions using AWS
+- Built Python automation pipelines for data processing and workflow optimization
+- Developed and deployed machine learning pipelines
 
 ---
 
-### What I'm Focusing On
+## GitHub Stats
 
-- Building production-style React, Node.js, and database-driven applications.
-- Improving problem solving through LeetCode and core CS topics.
-- Strengthening Docker, Kubernetes, CI/CD, and AWS deployment skills.
-- Exploring machine learning, deep learning, and MLOps through applied projects.
+<div align="center">
 
-<p align="center">
-  Thanks for visiting my profile.
-</p>
+<img width="92%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Aarjav-333&theme=tokyonight" alt="GitHub Profile Summary" />
+
+<br/><br/>
+
+<img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Aarjav-333&theme=tokyonight" alt="Top Languages by Repository" />
+&nbsp;
+<img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Aarjav-333&theme=tokyonight" alt="Top Languages by Commit" />
+
+<br/><br/>
+
+<img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Aarjav-333&theme=tokyonight" alt="GitHub Stats" />
+&nbsp;
+<img width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=Aarjav-333&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+
+</div>
+
+---
+
+## GitHub Metrics
+
+<div align="center">
+
+<img src="./metrics/base.svg" alt="GitHub profile metrics" width="100%" />
+
+<br/><br/>
+
+<img src="./metrics/isocalendar.svg" alt="Isometric commit calendar" width="100%" />
+
+<br/><br/>
+
+<img src="./metrics/languages.svg" alt="Most used programming languages" width="100%" />
+
+<br/><br/>
+
+<img src="./metrics/topics.svg" alt="GitHub starred and mastered topics" width="100%" />
+
+<br/><br/>
+
+<img src="./metrics/leetcode.svg" alt="LeetCode metrics" width="100%" />
+
+</div>
+
+---
+
+## Connect With Me
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/aarjav-oravakandi/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-Aarjav%20Oravakandi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+&nbsp;
+<a href="https://github.com/Aarjav-333" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-Aarjav--333-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a>
+&nbsp;
+<a href="https://leetcode.com/u/okaarjav/" target="_blank">
+  <img src="https://img.shields.io/badge/LeetCode-okaarjav-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" />
+</a>
+
+<br/><br/>
+
+<a href="mailto:okaarjav@gmail.com">
+  <img src="https://img.shields.io/badge/Email-okaarjav%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### Building with code, curiosity, and consistency
+
+<img src="https://komarev.com/ghpvc/?username=Aarjav-333&label=Profile%20Views&color=F7651F&style=flat" alt="Profile Views" />
+
+</div>
