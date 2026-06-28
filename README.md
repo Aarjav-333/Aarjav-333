@@ -23,7 +23,6 @@
 ## About Me
 
 - I build web apps, automation tools, and software projects that solve practical real-world problems.
-- I enjoy creating projects where clean UI, reliable backend logic, and real-world usefulness come together.
 - Currently improving my skills in **AI integration, cloud deployment, Docker, Kubernetes, CI/CD, and machine learning workflows**.
 - Building scalable full-stack applications using **ReactJS, Django, Node.js, Express.js, REST APIs, MySQL, MongoDB, Docker, and AWS**.
 - Exploring **machine learning, deep learning, PyTorch, CI/CD pipelines, Kubernetes, and cloud-native deployment practices**.
