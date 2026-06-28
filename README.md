@@ -11,13 +11,16 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/Aarjav-333?tab=repositories">Projects</a>
-  .
-  <a href="https://www.linkedin.com/in/aarjav-oravakandi/">LinkedIn</a>
-  .
-  <a href="https://leetcode.com/u/okaarjav/">LeetCode</a>
+  <a href="https://github.com/Aarjav-333?tab=repositories">
+    <img src="https://img.shields.io/badge/Projects-181717?style=for-the-badge&logo=github&logoColor=white" alt="Projects" />
+  </a>
+  <a href="https://www.linkedin.com/in/aarjav-oravakandi/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://leetcode.com/u/okaarjav/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" />
+  </a>
 </p>
-
 ---
 
 ## About Me
