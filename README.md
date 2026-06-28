@@ -66,7 +66,7 @@
 | **Backend** | Node.js, Express.js, RESTful API Design, JWT Authentication |
 | **Databases** | MySQL, SQL Server, MongoDB |
 | **Cloud & DevOps** | AWS Services, Docker, Kubernetes, CI/CD Pipelines, Git/GitHub |
-| **AI & Data** | Machine Learning, Deep Learning, TensorFlow, PyTorch, MLOps |
+| **AI & Data** | Machine Learning, Deep Learning, PyTorch, MLOps |
 | **Tools** | Postman, Figma, MS Excel, VS Code |
 
 </div>
