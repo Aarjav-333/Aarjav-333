@@ -61,12 +61,12 @@
 
 | Area | Skills |
 | --- | --- |
-| **Frontend** | ReactJS, JavaScript, TypeScript, HTML, CSS, Tailwind CSS, Bootstrap |
-| **Backend** | Node.js, Express.js, RESTful API Design, JWT Authentication |
+| **Frontend** | ReactJS, JavaScript, HTML, CSS, Tailwind CSS, Bootstrap, shadcn/ui |
+| **Backend** | Django, Node.js, Express.js, RESTful API Design, JWT Authentication, Role-Based Access Control |
 | **Databases** | MySQL, SQL Server, MongoDB |
-| **Cloud & DevOps** | AWS Services, Docker, Kubernetes, CI/CD Pipelines, Git/GitHub |
-| **AI & Data** | Machine Learning, Deep Learning, PyTorch, MLOps |
-| **Tools** | Postman, Figma, MS Excel, VS Code |
+| **Cloud & DevOps** | AWS Services, Docker, Kubernetes,Terraform, CI/CD Pipelines, Git/GitHub |
+| **AI & Data** | Machine Learning, Deep Learning, PyTorch, Data Preprocessing, Model Training, MLOps |
+| **Tools** | Postman, Figma, MS Excel, VS Code, GitHub Actions, Linux |
 
 </div>
 
