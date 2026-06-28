@@ -87,23 +87,23 @@
 
 <div align="center">
 
-<img src="./metrics/base.svg" alt="GitHub profile metrics" width="100%" />
+<img src="./metrics/base.svg" alt="GitHub profile metrics" width="85%" />
 
 <br/><br/>
 
-<img src="./metrics/isocalendar.svg" alt="Isometric commit calendar" width="100%" />
+<img src="./metrics/isocalendar.svg" alt="Isometric commit calendar" width="85%" />
 
 <br/><br/>
 
-<img src="./metrics/languages.svg" alt="Most used programming languages" width="100%" />
+<img src="./metrics/languages.svg" alt="Most used programming languages" width="85%" />
 
 <br/><br/>
 
-<img src="./metrics/topics.svg" alt="GitHub starred and mastered topics" width="100%" />
+<img src="./metrics/topics.svg" alt="GitHub starred and mastered topics" width="85%" />
 
 <br/><br/>
 
-<img src="./metrics/leetcode.svg" alt="LeetCode metrics" width="100%" />
+<img src="./metrics/leetcode.svg" alt="LeetCode metrics" width="85%" />
 
 </div>
 
