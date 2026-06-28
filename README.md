@@ -81,27 +81,6 @@
 - Built Python automation pipelines for data processing and workflow optimization
 - Developed and deployed machine learning pipelines
 
----
-
-## GitHub Stats
-
-<div align="center">
-
-<img width="92%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Aarjav-333&theme=tokyonight" alt="GitHub Profile Summary" />
-
-<br/><br/>
-
-<img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Aarjav-333&theme=tokyonight" alt="Top Languages by Repository" />
-&nbsp;
-<img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Aarjav-333&theme=tokyonight" alt="Top Languages by Commit" />
-
-<br/><br/>
-
-<img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Aarjav-333&theme=tokyonight" alt="GitHub Stats" />
-&nbsp;
-<img width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=Aarjav-333&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-
-</div>
 
 ---
 
