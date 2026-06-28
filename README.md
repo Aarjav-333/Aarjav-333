@@ -49,7 +49,7 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=java,python,js,ts,react,nodejs,express,html,css,tailwind,bootstrap,mysql,mongodb,aws,docker,kubernetes,git,github,postman,figma,vscode" alt="Tech Stack" />
+<img src="https://skillicons.dev/icons?i=java,python,js,ts,react,nodejs,express,django,html,css,tailwind,bootstrap,mysql,postgres,mongodb,sqlite,aws,docker,kubernetes,terraform,git,github,githubactions,postman,figma,vscode,linux,pytorch" alt="Tech Stack" />
 
 </div>
 
