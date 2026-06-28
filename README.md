@@ -39,7 +39,7 @@
 | --- | --- | --- |
 | **Loan Bazaar** | Fintech platform for loan management, investments, deposits, role-based access, secure transactions, and real-time financial analytics. | ReactJS, Node.js, Express.js, MongoDB/MySQL, JWT, AWS S3/EC2, Docker |
 | **Restaurant Management System** | Restaurant operations system for tables, orders, menu updates, role-based access, and customer feedback. | ReactJS, Node.js, Express.js, MySQL, REST APIs |
-| **Kerala Result Notifier** | Tracks Kerala University result and announcement updates so students do not need to manually check repeatedly. | React, Supabase, PWA, Automation |
+| **Result Notifier** | Tracks Kerala University result and announcement updates so students do not need to manually check repeatedly. | React, Supabase, PWA, Automation |
 | **Learning Management System** | Learning platform with student accounts, video access, announcements, and dashboard features. | React, Supabase, shadcn/ui, GSAP |
 
 </div>
