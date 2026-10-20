@@ -89,17 +89,12 @@
 
 ## Highlights
 
-- Designed and deployed an end-to-end full-stack application with cloud integration
-- Deployed scalable microservices using Docker and Kubernetes
-- Implemented cloud-based solutions using AWS
-- Built Python automation pipelines for data processing and workflow optimization
-- Developed and deployed machine learning pipelines
-- Built **NetMedic AI** for the Infosys IGNITE ENGNEXT 2026 Hack-AI-Thon, a closed detect → diagnose → heal → verify loop that recovers a congested router in about 14 seconds
-- Trained a GraphSAGE GNN for fraud detection reaching **85.9% F1 and 96.3% ROC-AUC**, and uncovered **54 fraud rings with 96.8% purity**
-- Built **BrokerReady**, an agentic LLM lead-qualification system, for the CYMONIC Agentic Workforce Hackathon
-- Built SATVA, a multi-platform system with a FastAPI backend (53 REST endpoints, 190 tests), a Flutter mobile app with on-device TFLite, a React dashboard and ESP32 sensor ingestion
-- Reached **93% test accuracy** on plant leaf disease detection with MobileNetV2 transfer learning, and about **98%** on SMS spam classification
-- Shipped several Next.js + Supabase/PostgreSQL apps and PWAs to Vercel with server-side validation, row-level security and offline support
+- Built and deployed full-stack apps and microservices on AWS and Vercel using Docker and Kubernetes
+- **NetMedic AI** (Infosys IGNITE ENGNEXT 2026): self-healing network that detects, diagnoses and fixes faults in ~14 s
+- **FraudGraph**: GraphSAGE GNN with **85.9% F1 / 96.3% ROC-AUC**, uncovering 54 fraud rings
+- **BrokerReady** (CYMONIC Agentic Workforce Hackathon): agentic LLM system for real-estate lead qualification
+- **SATVA**: FastAPI backend, Flutter app with on-device TFLite, React dashboard and ESP32 sensors
+- ML and automation pipelines: **93%** plant disease detection (MobileNetV2), **~98%** spam classification
 
 
 ---
