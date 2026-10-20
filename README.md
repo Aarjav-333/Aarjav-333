@@ -39,6 +39,17 @@
 
 | Project | Description | Tech Stack |
 | --- | --- | --- |
+| **[NetMedic AI](https://github.com/Aarjav-333/netmedic-ai)** | Autonomous network self-healing platform built for the Infosys IGNITE ENGNEXT 2026 Hack-AI-Thon: detects faults with an Isolation Forest, finds the root cause, reroutes or isolates nodes, then verifies recovery with before/after telemetry. | Python, FastAPI, WebSockets, scikit-learn, NetworkX, Next.js, React Flow, Docker |
+| **[FraudGraph](https://github.com/Aarjav-333/fraud-detection-graphml)** | Financial fraud detection and investigation system combining a rule engine, transaction-graph analysis, XGBoost and GraphSAGE/GCN GNNs to flag suspicious accounts and fraud rings, with real-time alerts and case reports. | Python, FastAPI, PyTorch Geometric, XGBoost, NetworkX, React, Material UI, Vercel |
+| **[SATVA](https://github.com/Aarjav-333/SATVA)** | Food-safety screening platform (Scan, Analyse, Trace, Verify, Alert) with on-device vision screening, colorimetry-based evidence, tamper-evident provenance and hotspot mapping. | FastAPI, Celery, PostgreSQL/PostGIS, Redis, Flutter, TFLite, React, ESP32/MQTT, Docker |
+| **[BrokerReady](https://github.com/Aarjav-333/Real-Estate)** | Agentic AI real-estate lead qualification and routing system built for the CYMONIC Agentic Workforce Hackathon; an LLM extracts buyer requirements and chooses the next action from real inventory evidence. | Python, Streamlit, OpenAI/Ollama, Pydantic, SQLite, pytest |
+| **[Certificate Generator](https://github.com/Aarjav-333/certificate-generator)** | Certificate generator with live preview, multiple templates, logo/signature uploads, CSV batch generation, PDF/PNG export and an HTTP API. | React, TypeScript, Vite, Tailwind CSS, pdf-lib, Vercel Functions |
+| **[Geofence Attendance](https://github.com/Aarjav-333/geofence-attendance)** | QR-based, location-verified attendance app with server-side 100 m geofence checks and a protected admin dashboard. | Next.js, TypeScript, PostgreSQL, Zod, Tailwind CSS |
+| **[Debt Ledger](https://github.com/Aarjav-333/personal-debt-tracker)** | Installable PWA for tracking money lent out, partial repayments and outstanding balances, with row-level security and CSV export. | Next.js, TypeScript, Supabase, shadcn/ui, PWA |
+| **[Class Attendance PWA](https://github.com/Aarjav-333/class-attendance-pwa)** | Mobile-first app for marking student attendance by subject and hour, with history, editing and export. | Next.js, React, TypeScript, Supabase, Tailwind CSS |
+| **[Movie Marathon Scheduler](https://github.com/Aarjav-333/movie-marathon-scheduler)** | Constraint-based scheduler that finds whether all chosen movies fit in one day and the schedule that finishes earliest. | Next.js, TypeScript, Tailwind CSS, shadcn/ui, Vitest, GitHub Actions |
+| **[Plant Leaf Disease Detection](https://github.com/Aarjav-333/Plant-Leaf-Disease-Detection-Using-DL)** | Deep learning model that classifies plant leaf diseases from images using MobileNetV2 transfer learning. | Python, TensorFlow/Keras, MobileNetV2, Streamlit |
+| **[Spam Message Classifier](https://github.com/Aarjav-333/Spam-Msg-Classifier)** | Machine learning app that classifies SMS messages as spam or ham with prediction confidence. | Python, scikit-learn, TF-IDF, Pandas, Streamlit |
 | **Loan Bazaar** | Fintech platform for loan management, investments, deposits, role-based access, secure transactions, and real-time financial analytics. | ReactJS, Node.js, Express.js, MongoDB/MySQL, JWT, AWS S3/EC2, Docker |
 | **Restaurant Management System** | Restaurant operations system for tables, orders, menu updates, role-based access, and customer feedback. | ReactJS, Node.js, Express.js, MySQL, REST APIs |
 | **Result Notifier** | Tracks Kerala University result and announcement updates so students do not need to manually check repeatedly. | React, Supabase, PWA, Automation |
@@ -52,7 +63,7 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=java,python,js,ts,react,nodejs,express,django,html,css,tailwind,bootstrap,mysql,postgres,mongodb,sqlite,aws,docker,kubernetes,terraform,git,github,githubactions,postman,figma,vscode,linux,pytorch" alt="Tech Stack" />
+<img src="https://skillicons.dev/icons?i=java,python,c,cpp,js,ts,dart,react,nextjs,nodejs,express,django,fastapi,flutter,html,css,tailwind,bootstrap,materialui,vite,mysql,postgres,mongodb,sqlite,redis,supabase,aws,vercel,docker,kubernetes,terraform,git,github,githubactions,postman,figma,vscode,androidstudio,linux,pytorch,tensorflow,sklearn,vitest" alt="Tech Stack" />
 
 </div>
 
@@ -64,12 +75,13 @@
 
 | Area | Skills |
 | --- | --- |
-| **Frontend** | ReactJS, JavaScript, HTML, CSS, Tailwind CSS, Bootstrap, shadcn/ui |
-| **Backend** | Django, Node.js, Express.js, RESTful API Design, JWT Authentication, Role-Based Access Control |
-| **Databases** | MySQL, SQL Server, MongoDB |
-| **Cloud & DevOps** | AWS Services, Docker, Kubernetes,Terraform, CI/CD Pipelines, Git/GitHub |
-| **AI & Data** | Machine Learning, Deep Learning, PyTorch, Data Preprocessing, Model Training, MLOps |
-| **Tools** | Postman, Figma, MS Excel, VS Code, GitHub Actions, Linux |
+| **Frontend** | ReactJS, JavaScript, HTML, CSS, Tailwind CSS, Bootstrap, shadcn/ui, TypeScript, Next.js, Vite, Material UI, Recharts, Progressive Web Apps |
+| **Backend** | Django, Node.js, Express.js, RESTful API Design, JWT Authentication, Role-Based Access Control, FastAPI, Pydantic, SQLAlchemy, WebSockets, Celery, Zod |
+| **Databases** | MySQL, SQL Server, MongoDB, PostgreSQL, PostGIS, Supabase, SQLite, Redis |
+| **Cloud & DevOps** | AWS Services, Docker, Kubernetes, Terraform, CI/CD Pipelines, Git/GitHub, Docker Compose, Vercel, Render |
+| **AI & Data** | Machine Learning, Deep Learning, PyTorch, Data Preprocessing, Model Training, MLOps, Graph Neural Networks (PyTorch Geometric), XGBoost, scikit-learn, TensorFlow/Keras, Anomaly Detection, LLM Integration & Agentic AI, NetworkX, Pandas |
+| **Mobile & IoT** | Flutter, Dart, Android (Java), TFLite, ESP32, MQTT |
+| **Tools** | Postman, Figma, MS Excel, VS Code, GitHub Actions, Linux, Vitest, pytest, Streamlit, Jupyter Notebook |
 
 </div>
 
@@ -82,6 +94,12 @@
 - Implemented cloud-based solutions using AWS
 - Built Python automation pipelines for data processing and workflow optimization
 - Developed and deployed machine learning pipelines
+- Built **NetMedic AI** for the Infosys IGNITE ENGNEXT 2026 Hack-AI-Thon, a closed detect → diagnose → heal → verify loop that recovers a congested router in about 14 seconds
+- Trained a GraphSAGE GNN for fraud detection reaching **85.9% F1 and 96.3% ROC-AUC**, and uncovered **54 fraud rings with 96.8% purity**
+- Built **BrokerReady**, an agentic LLM lead-qualification system, for the CYMONIC Agentic Workforce Hackathon
+- Built SATVA, a multi-platform system with a FastAPI backend (53 REST endpoints, 190 tests), a Flutter mobile app with on-device TFLite, a React dashboard and ESP32 sensor ingestion
+- Reached **93% test accuracy** on plant leaf disease detection with MobileNetV2 transfer learning, and about **98%** on SMS spam classification
+- Shipped several Next.js + Supabase/PostgreSQL apps and PWAs to Vercel with server-side validation, row-level security and offline support
 
 
 ---
@@ -99,10 +117,6 @@
 <br/><br/>
 
 <img src="./metrics/languages.svg" alt="Most used programming languages" width="85%" />
-
-<br/><br/>
-
-<img src="./metrics/topics.svg" alt="GitHub starred and mastered topics" width="85%" />
 
 <br/><br/>
 
